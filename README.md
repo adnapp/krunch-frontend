@@ -11,7 +11,12 @@ alt="Krunch Demo" width="240" height="180" border="10" /></a>
 
 
 
+After setting up the <a href="https://github.com/adnapp/krunch-backend">backend</a>, start the front end.
 
+$ npm install
+$ npm start
+
+You can see the working website here: <a href="https://krunch.netlify.app/" LINK></a>
 
 
 
