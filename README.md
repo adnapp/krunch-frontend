@@ -16,7 +16,7 @@ After setting up the <a href="https://github.com/adnapp/krunch-backend">backend<
 $ npm install
 $ npm start
 
-You can see the working website here: <a href="https://krunch.netlify.app/" LINK></a>
+You can see the working website here: <a href="https://krunch.netlify.app/">LINK></a>
 
 
 
